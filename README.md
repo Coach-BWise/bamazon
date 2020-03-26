@@ -20,6 +20,12 @@ node bamazonCustomer.js
 
 From here you can mock shopping. You will get confirmation if Order was successful.
 
+Screenshots Below
+
+[Initial Table](https://github.com/Coach-BWise/bamazon/blob/master/screenshots/initial%20table.jpg)
+[Shop example](https://github.com/Coach-BWise/bamazon/blob/master/screenshots/print%20and%20shop.jpg)
+[Table Post Shop](https://github.com/Coach-BWise/bamazon/blob/master/screenshots/table%20post%20shopping.jpg)
+
 ## Built With
 
 * [Node](https://nodejs.org/en/)
